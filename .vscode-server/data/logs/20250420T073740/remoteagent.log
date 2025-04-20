@@ -1,0 +1,19 @@
+2025-04-20 07:37:41.012 [info] 
+
+
+
+
+2025-04-20 07:37:41.012 [info] Extension host agent started.
+2025-04-20 07:37:41.029 [info] Started initializing default profile extensions in extensions installation folder. file:///home/azureuser/.vscode-server/extensions
+2025-04-20 07:37:41.061 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/azureuser/.vscode-server/extensions
+2025-04-20 07:37:41.640 [info] [<unknown>][67851704][ManagementConnection] New connection established.
+2025-04-20 07:37:41.667 [info] [<unknown>][fa0b4724][ExtensionHostConnection] New connection established.
+2025-04-20 07:37:41.760 [info] [<unknown>][fa0b4724][ExtensionHostConnection] <1490> Launched Extension Host Process.
+2025-04-20 07:41:32.728 [info] [<unknown>][67851704][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2025-04-20 07:41:32.764 [info] [<unknown>][fa0b4724][ExtensionHostConnection] <1490> Extension Host Process exited with code: 0, signal: null.
+2025-04-20 07:41:32.765 [info] Cancelling previous shutdown timeout
+2025-04-20 07:41:32.765 [info] Last EH closed, waiting before shutting down
+2025-04-20 07:41:36.018 [info] [<unknown>][7c0caf53][ManagementConnection] New connection established.
+2025-04-20 07:41:36.019 [info] [<unknown>][aaa0fff8][ExtensionHostConnection] New connection established.
+2025-04-20 07:41:36.023 [info] [<unknown>][aaa0fff8][ExtensionHostConnection] <1565> Launched Extension Host Process.
+2025-04-20 07:46:32.766 [info] New EH opened, aborting shutdown
