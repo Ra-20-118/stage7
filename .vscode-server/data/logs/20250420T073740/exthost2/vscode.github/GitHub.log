@@ -1,1 +1,2 @@
 2025-04-20 07:41:42.022 [info] Log level: Info
+2025-04-20 08:43:18.173 [warning] [GitHubSourceControlHistoryItemDetailsProvider][_getCommitAuthor] Failed to get commit author for Ra-20-118/stage7/81dd48e520d9cdc56658c07d2596e44b66231c0d: TypeError: Cannot read properties of null (reading 'author')
